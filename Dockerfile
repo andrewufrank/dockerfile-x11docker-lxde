@@ -1,3 +1,6 @@
+# buildx with 
+#docker buildx build -t andrewufrank/x11docker-lxde:latest --platform linux/arm/v7,linux/arm64,linux/amd64,linux/arm/v6 --push .
+
 # x11docker/lxde
 # 
 # Run LXDE desktop in docker. 

@@ -1,4 +1,4 @@
-# x11docker/lxde
+# x11docker/lxde from m viereck
 
 Dockerfile containing LXDE desktop
  - Run LXDE desktop in docker.
